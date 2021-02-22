@@ -1,0 +1,7 @@
+"#! /bin/bash"
+aws mturk send-bonus --worker-id A1JKHGRDXU18PM --bonus-amount 4.28 --assignment-id 3TGOYF991ZDZSELEJ4JFYJOAW86UUG --reason  '$3.50 completion pay + $0.78 bonus for your performance during the Challenging Science Game hit'
+aws mturk send-bonus --worker-id A21D9YDJU8K2QI --bonus-amount 3.82 --assignment-id 3LBXNTKX0TMTPQR6QYZBMU00D5P9X8 --reason  '$3.50 completion pay + $0.32 bonus for your performance during the Challenging Science Game hit'
+aws mturk send-bonus --worker-id A2LF84L3K71GR2 --bonus-amount 3.93 --assignment-id 32VNZTT0A9V8VOZI04XSG43WQ094R2 --reason  '$3.50 completion pay + $0.43 bonus for your performance during the Challenging Science Game hit'
+aws mturk send-bonus --worker-id A3QEVFM3UD67BA --bonus-amount 3.87 --assignment-id 3UJ1CZ6IZJG2SM3VTYG7B6E6CYR5S0 --reason  '$3.50 completion pay + $0.37 bonus for your performance during the Challenging Science Game hit'
+aws mturk send-bonus --worker-id AUFUUD4WG9CVO --bonus-amount 4.4399999999999995 --assignment-id 3Y54SXRO1NCKS16PJZT5TN28DZDTUC --reason  '$3.50 completion pay + $0.94 bonus for your performance during the Challenging Science Game hit'
+aws mturk send-bonus --worker-id A11QRDA1F7IY8U --bonus-amount 4.34 --assignment-id 3LQ8PUHQFNJPE1KUPON2W1B98ASIHG --reason  '$3.50 completion pay + $0.84 bonus for your performance during the Challenging Science Game hit'

@@ -1,0 +1,106 @@
+,Unnamed: 0,room,token_id,rule_name,rule_description,prior_accuracy,posterior_accuracy,prior_feedback,posterior_feedback,code_init,code_rev
+0,0,TDvs5,WjsXkIQV1LXVlJmcAAAJ,Omega,all are blue OR small,0.625,0.875,There cannot be any two cones that are overlapping vertically.,The cones must be all blue or all small.,1,1
+1,1,TDvs5,WjsXkIQV1LXVlJmcAAAJ,Upsilon,none are upright,0.75,0.625,There must be at least two cones that are overlapping.,There must be at least two cones that are overlapping.,1,1
+2,2,TDvs5,WjsXkIQV1LXVlJmcAAAJ,Kappa,at least one is blue AND small,0.75,0.75,I have no idea what the rule is.,I have no idea what the rule is.,1,1
+3,3,TDvs5,WjsXkIQV1LXVlJmcAAAJ,Iota,one is blue,0.625,0.625,There must be at least one blue cone.,There must be at least one blue cone.,1,1
+4,5,TDvs5,piHJRkGAQiNDVM_pAAAL,Omega,all are blue OR small,0.5,0.5,"One medium sized red, two small green.","One medium red, two small green.",1,1
+5,6,TDvs5,piHJRkGAQiNDVM_pAAAL,Upsilon,none are upright,0.375,0.625,I could not figure out a relationship.,I could not figure out a rule.,1,1
+6,7,TDvs5,piHJRkGAQiNDVM_pAAAL,Kappa,at least one is blue AND small,0.625,0.625,At least two pieces stacked and all pointing in same direction.,At least two pieces stacked and all pointing in same direction.,1,1
+7,8,TDvs5,piHJRkGAQiNDVM_pAAAL,Iota,one is blue,0.75,0.75,All three colors must be present.,all three colors must be present,1,1
+8,10,vrJh5,zZ5CYdb0UfG8F3vRAAAS,Omega,all are blue OR small,0.375,0.375,It seems there most be at least one or more cones sideways for it to emit radiation. ,It seems there most be at least one cone sideways to emit radiation. ,1,1
+9,11,vrJh5,zZ5CYdb0UfG8F3vRAAAS,Zeta,there is a red,0.25,0.25,there has to be two cones stacked on top of each other.,there has to be two cones stacked on top of each other,1,1
+10,13,vrJh5,zZ5CYdb0UfG8F3vRAAAS,Kappa,at least one is blue AND small,0.625,0.625,I could not figure out what connects these cones that creates the radiation. the only thing I noticed was the fact that there had to be a small cone inside a large one.,I could not figure out what connects these cones that creates the radiation. the only thing I noticed was the fact that there had to be a small cone inside a large one.,1,1
+11,15,vrJh5,Sx5A2_s1FPDoUsTLAAAT,Omega,all are blue OR small,0.5,0.5,There are only medium and small triangles. There are at most 3 triangles.,There are three triangles and there is only small and medium sized triangles.,1,1
+12,16,vrJh5,Sx5A2_s1FPDoUsTLAAAT,Zeta,there is a red,1.0,1.0,Must contain a red triangle.,Must contain a red triangle,1,1
+13,18,vrJh5,Sx5A2_s1FPDoUsTLAAAT,Kappa,at least one is blue AND small,0.5,0.625,Must contain at least 4 triangles. Must have one stack. ,Must have at least 4 triangles. Must have one stack. ,1,1
+14,20,OWxuM,3ioMahe1PAlAZAq3AAAo,Zeta,there is a red,1.0,1.0,There must be at least one red cone.,There must be at least 1 red cone.,1,1
+15,21,OWxuM,3ioMahe1PAlAZAq3AAAo,Kappa,at least one is blue AND small,0.25,0.25,There must be 3 green cones. ,There must be 3 green cones. ,1,1
+16,24,OWxuM,3ioMahe1PAlAZAq3AAAo,Iota,one is blue,0.625,1.0,There is exactly one blue cone.,There is exactly one blue cone.,1,1
+17,25,OWxuM,QfKnfyfq6JquRFv-AAAn,Zeta,there is a red,1.0,1.0,Zeta waves are created when there is any number of red cones.,There needs to be at least one red cone of any size.,1,1
+18,26,OWxuM,QfKnfyfq6JquRFv-AAAn,Kappa,at least one is blue AND small,0.375,0.375,There must be more green cones than red cones to make this wave. There must be at least one blue cone.,"There must be more green cones than red cones, and at least one green cone.",1,1
+19,29,OWxuM,QfKnfyfq6JquRFv-AAAn,Iota,one is blue,0.625,0.625,There must be a blue cone.,There must be at least one blue cone.,1,1
+20,30,nC7AS,frTISZa6hmSHzqZ5AAAR,Upsilon,none are upright,0.875,0.875,Any sized cone resting its side on any other cone.,Any code resting its side on any other cones side.,1,1
+21,32,nC7AS,frTISZa6hmSHzqZ5AAAR,Iota,one is blue,0.25,0.25,"Any blue cone resting on any red cone, or any red cone resting on any blue cone.","Any blue cone resting on any red cone, or any red cone resting on any blue cone.",1,1
+22,35,nC7AS,Bnn_5BwOU-b2u3nNAAAQ,Upsilon,none are upright,1.0,0.875,There must be at least 3 cones turned on their sides.,At least 3 cones need to be turned on their sides,1,1
+23,37,nC7AS,Bnn_5BwOU-b2u3nNAAAQ,Iota,one is blue,0.375,0.375,There must be at least one tall cone. There must be at least 2 different colors,"There must be at least 1 tall cone, there must be at least 2 different colors",1,1
+24,40,ZdXQZ,tcpjkowfzbo-RzgvAAAp,Kappa,at least one is blue AND small,1.0,1.0,There must be at least one small blue cone,There must be at least one small blue cone,1,1
+25,42,ZdXQZ,tcpjkowfzbo-RzgvAAAp,Iota,one is blue,0.75,0.75,There must be one of each color cone,There must be at least one of each color cone,1,1
+26,45,ZdXQZ,sIBlk-qFcNY4fsGyAAAq,Kappa,at least one is blue AND small,0.375,0.5,Must have two small and two medium triangles.,Must have two small and two medium triangles.,1,1
+27,47,ZdXQZ,sIBlk-qFcNY4fsGyAAAq,Iota,one is blue,0.75,0.75,Must have one of each color.,Must have one of each color,1,1
+28,53,zUM7d,LBEcjjqzWFjFJ2UzAAA3,Omega,all are blue OR small,0.75,0.75,the blue cones should be larger than the other cones and should be present,blue cones should be present and are the larger of all the other cones,1,1
+29,58,zUM7d,4gdK7_T_qCWuODBvAAA2,Omega,all are blue OR small,0.75,0.75,When there is a blue cone that is the largest one when there are two or less colors.,When there is a blue cone that is the largest one when there are two or less colors.,1,1
+30,60,0LZMn,ZDHBoIsVsfDX9Vf2AAA_,Upsilon,none are upright,1.0,1.0,A scene emits radiation if there are no shapes standing straight up. ,There must not be any shapes standing straight up. ,1,1
+31,62,0LZMn,ZDHBoIsVsfDX9Vf2AAA_,Iota,one is blue,0.375,0.375,There must be at least one of each color and if there is multiple none can be standing straight up. ,"There must be at least one of each color and if there are multiple, none can be standing straight up. ",1,1
+32,63,0LZMn,ZDHBoIsVsfDX9Vf2AAA_,Kappa,at least one is blue AND small,1.0,1.0,There must be at least one small blue triangle. ,The must be at least one small blue triangle. ,1,1
+33,65,0LZMn,oim2MThVnPjmiu2OAABB,Upsilon,none are upright,1.0,1.0,"There must be at least one cone of any size, shape, or color turned on its side in either direction. There must not be a cone of any size, shape, or color standing up. ",#NAME?,1,1
+34,67,0LZMn,oim2MThVnPjmiu2OAABB,Iota,one is blue,0.625,0.625,#NAME?,#NAME?,1,1
+35,68,0LZMn,oim2MThVnPjmiu2OAABB,Kappa,at least one is blue AND small,0.375,0.5,#NAME?,#NAME?,1,1
+36,70,qTF57,aY3043wGsEt2gN1KAABI,Iota,one is blue,0.625,0.625,There needs to be a blue triangle.,There must be at least one blue triangle,1,1
+37,72,qTF57,aY3043wGsEt2gN1KAABI,Omega,all are blue OR small,0.375,0.375,There need to be two small triangles,There needs to be two small triangles,1,1
+38,74,qTF57,aY3043wGsEt2gN1KAABI,Upsilon,none are upright,0.625,0.625,There needs o be a triangle on its side.,There needs to be a triangle on its side,1,1
+39,75,qTF57,A-8J0T6shEk5TGpmAABH,Iota,one is blue,0.625,0.625,There must be at least 1 blue cone in order for the scene to emit lota waves.,There must be at least 1 blue cone in order for a scene to emit lota waves.,1,1
+40,77,qTF57,A-8J0T6shEk5TGpmAABH,Omega,all are blue OR small,0.75,0.625,There must be no more than 2 colors of cones in the scene.,There must be no more than 2 colors of cones in the scene.,1,1
+41,79,qTF57,A-8J0T6shEk5TGpmAABH,Upsilon,none are upright,0.5,0.5,There must be at least 1 large cone of any color and no small red cone.,There must be at least 1 large cone of any color and no small red cone.,1,1
+42,80,GBOn7umXUg,Kh5yAD9GF2sgDjsMAAAz,Omega,all are blue OR small,0.625,0.375,If a blue cone is larger than a green cone.,The blue cone is largest,1,1
+43,81,GBOn7umXUg,Kh5yAD9GF2sgDjsMAAAz,Iota,one is blue,0.75,0.375,There is at least one cone of each color.,There are at least one green cone and one red cone.,1,1
+44,84,GBOn7umXUg,Kh5yAD9GF2sgDjsMAAAz,Upsilon,none are upright,0.625,0.625,There are two red cones touching each other and pointed the same direction.,There are at least two red cones touching.,1,1
+45,85,GBOn7umXUg,KQ-7jJWvGKznfX5_AAA0,Omega,all are blue OR small,0.75,0.75,There is at least one blue object larger than the others and not touching any other objects,One cone is larger than the others.   Two cones of the same color are not touching.,1,1
+46,86,GBOn7umXUg,KQ-7jJWvGKznfX5_AAA0,Iota,one is blue,0.375,0.375,two objects of the same size are touching,two objects of the same size touch,1,1
+47,89,GBOn7umXUg,KQ-7jJWvGKznfX5_AAA0,Upsilon,none are upright,0.625,0.625,all object must be non-upright with at least 2 touching,all object must be non-upright with at least 2 touching,1,1
+48,92,icyDISSxvx,HpCrlrwyq5c78M6AAAA6,Zeta,there is a red,0.375,0.375,A smaller one must be on a larger one,A smaller one must be on a larger one.,1,1
+49,94,icyDISSxvx,HpCrlrwyq5c78M6AAAA6,Iota,one is blue,0.625,0.625,One must be blue,One must be blue,1,1
+50,97,icyDISSxvx,oTUrOgUqTmm9QfYDAAA5,Zeta,there is a red,1.0,1.0,There must be at least one red cone.,There must be at least one red cone.,1,1
+51,99,icyDISSxvx,oTUrOgUqTmm9QfYDAAA5,Iota,one is blue,0.75,1.0,There must be present exactly one blue cone.,There must be present exactly one blue cone.,1,1
+52,102,JP0CgbU9FF,TRuAF7RKTQPzKSt2AABd,Zeta,there is a red,1.0,0.75,Three different colors. All small or medium.,Four on the ground. One sideways.,1,1
+53,103,JP0CgbU9FF,TRuAF7RKTQPzKSt2AABd,Omega,all are blue OR small,0.5,0.75,Two of the same color. One of the other. Single color on right.,There were three. Two small. One medium or large.,1,1
+54,107,JP0CgbU9FF,eTezpoT_HJz9VdgvAABe,Zeta,there is a red,0.25,0.375,Two different cones need to touch,Two different cones need to touch.,1,1
+55,108,JP0CgbU9FF,eTezpoT_HJz9VdgvAABe,Omega,all are blue OR small,0.625,0.625,two cones to touch,two cones to touch,1,1
+56,111,Rsvo0qz0zz,dIh8Lu5FzoCT50EUAAAE,Zeta,there is a red,0.625,0.625,I believe that as long as there is more than one cone radiation will be emitted.,I continue to believe that as long as more than one cone is present radiation will be emitted,1,1
+57,112,Rsvo0qz0zz,dIh8Lu5FzoCT50EUAAAE,Omega,all are blue OR small,0.375,0.25,I can not think of a rule for this condition to be true,I can not think of what the rule is for this situation,1,1
+58,114,Rsvo0qz0zz,dIh8Lu5FzoCT50EUAAAE,Upsilon,none are upright,0.75,0.5,I believe when two cones are touching and pointing in a non-vertical position that radiation is emitted,I think that when two cones are touching each other in a non-vertical orientation they emit radiation,1,1
+59,116,Rsvo0qz0zz,#NAME?,Zeta,there is a red,0.875,0.625,At least two triangles must be touching.,At least two triangles must be touching.,1,1
+60,117,Rsvo0qz0zz,#NAME?,Omega,all are blue OR small,0.375,0.375,There must be two triangles of different colors touching and at least one additional triangle.,There must be two triangles of different colors touching and at least one additional triangle.,1,1
+61,119,Rsvo0qz0zz,#NAME?,Upsilon,none are upright,0.75,0.75,A small triangle must be touching a larger triangle,There must be a cluster of triangles all together,1,1
+62,120,oCJaqaucjp,R-K0qkUWDG80WRcIAAAG,Iota,one is blue,0.625,0.625,"There has to be at least one of each color, size doesn't matter.","There must be one of each color, size does not matter.",1,1
+63,121,oCJaqaucjp,R-K0qkUWDG80WRcIAAAG,Upsilon,none are upright,0.25,0.5,I could not find a rule. None of my trials worked out.,I still do not know what the rule could have been.,1,1
+64,124,oCJaqaucjp,R-K0qkUWDG80WRcIAAAG,Zeta,there is a red,0.875,0.75,There must be one red and one green.,There must be one red and one green.,1,1
+65,125,oCJaqaucjp,KA5-D_zR5aPJi-RyAAAH,Iota,one is blue,0.625,0.625,There must be at least one purple cone.,There must be at least one purple cone.,1,1
+66,126,oCJaqaucjp,KA5-D_zR5aPJi-RyAAAH,Upsilon,none are upright,0.75,0.75,There must be one purple cone pointing to the left.,There must be one purple cone pointing to the left.,1,1
+67,129,oCJaqaucjp,KA5-D_zR5aPJi-RyAAAH,Zeta,there is a red,0.75,0.75,There must be at least one red cone pointing upwards.,There must be at least one red cone facing upwards.,1,1
+68,132,hbaVUxZLvt,lcIg3IPTybbVS9FyAAAS,Iota,one is blue,0.625,0.625,Must contain at least 1 blue cone,Must contain at least one blue cone,1,1
+69,133,hbaVUxZLvt,lcIg3IPTybbVS9FyAAAS,Kappa,at least one is blue AND small,0.625,0.625,Must contain 1 blue cone,Must have 1 blue cone,1,1
+70,134,hbaVUxZLvt,lcIg3IPTybbVS9FyAAAS,Zeta,there is a red,1.0,1.0,There must be at least 1 red cone.,There must be at least 1 red cone.,1,1
+71,137,hbaVUxZLvt,qElJ9nXF05GDxnX6AAAT,Iota,one is blue,0.625,0.75,If there is a purple triangle radiation will be emitted.,As long as there was one purple triangle radiation is emitted.,1,1
+72,138,hbaVUxZLvt,qElJ9nXF05GDxnX6AAAT,Kappa,at least one is blue AND small,0.875,0.875,When there are two purple triangles radiation is emitted.,When there are two purple triangles radiation is emitted.,1,1
+73,139,hbaVUxZLvt,qElJ9nXF05GDxnX6AAAT,Zeta,there is a red,1.0,1.0,There must be one red triangle to emit radiation.,There must be one red triangle to emit radiation,1,1
+74,142,5veYwyhYkk,Wl6enmNtC8pc-47KAAAV,Kappa,at least one is blue AND small,0.75,0.75,There are at least 2 blue triangles of different sizes that do not touch each other.,There are at least 2 blue triangles of different sizes that do not touch each other.,1,1
+75,143,5veYwyhYkk,Wl6enmNtC8pc-47KAAAV,Upsilon,none are upright,0.875,0.875,at least two triangles touch each other and neither is standing straight up.,at least 2 triangles touch each other and neither are standing straight up.,1,1
+76,147,5veYwyhYkk,VHELOrTF2QcME3ATAAAU,Kappa,at least one is blue AND small,0.75,0.625,There should be all colors. ,There should be each color. ,1,1
+77,148,5veYwyhYkk,VHELOrTF2QcME3ATAAAU,Upsilon,none are upright,0.25,1.0,I cannot think of a rule. ,I cannot think of a rule. ,1,1
+78,151,dExckpP5o5,OTeHWPov9yZkcbEZAAAB,Zeta,there is a red,1.0,1.0,there must be at least one red triangle ,there must be at least one red triangle ,1,1
+79,153,dExckpP5o5,OTeHWPov9yZkcbEZAAAB,Omega,all are blue OR small,0.375,0.25,there must be at least one green triangle touching blue one,there must be one green triangle should touch blue triangle,1,1
+80,154,dExckpP5o5,OTeHWPov9yZkcbEZAAAB,Kappa,at least one is blue AND small,1.0,1.0,there must be at least one small blue triangle,there must be at least one blue triangle,1,1
+81,156,dExckpP5o5,qeg7II_OavRp_YREAAAC,Zeta,there is a red,0.5,0.5,they must be same size,they must be same size,1,1
+82,158,dExckpP5o5,qeg7II_OavRp_YREAAAC,Omega,all are blue OR small,0.625,0.375,all should be small,all should be small,1,1
+83,159,dExckpP5o5,qeg7II_OavRp_YREAAAC,Kappa,at least one is blue AND small,0.375,0.625,there must be one big cone,there must be one big cone,1,1
+84,160,j4HNgt8UJB,_VLMW5LVhR2OMJrCAAAA,Iota,one is blue,0.5,0.625,"Blue and red cones emit radiation.
+",Red and blue cones emits radiation,1,1
+85,161,j4HNgt8UJB,_VLMW5LVhR2OMJrCAAAA,Zeta,there is a red,1.0,1.0,Blue and red emits radiation,red and blue emits radiation,1,1
+86,162,j4HNgt8UJB,_VLMW5LVhR2OMJrCAAAA,Upsilon,none are upright,0.375,0.375,2 red and a blue emits radiation,two reds and green emits,1,1
+87,165,j4HNgt8UJB,WdLNeP_9tn_MXo3MAAAB,Iota,one is blue,0.75,0.75,There are at least one green and one blue triangles.,There are at least one green and one blue triangles.,1,1
+88,166,j4HNgt8UJB,WdLNeP_9tn_MXo3MAAAB,Zeta,there is a red,1.0,1.0,There is at least one red triangle.,There is at least one red triangle.,1,1
+89,167,j4HNgt8UJB,WdLNeP_9tn_MXo3MAAAB,Upsilon,none are upright,0.625,0.625,There are two large triangles.,There are two large triangles,1,1
+90,173,RLWUHB7DXT,T_VtQzEX9IiJR_g7AAAJ,Kappa,at least one is blue AND small,0.875,1.0,There must be at least 2 blue cones,There must be at least 2 blue cones,1,1
+91,174,RLWUHB7DXT,T_VtQzEX9IiJR_g7AAAJ,Omega,all are blue OR small,0.875,0.875,There must be at least one or two blue cones.,There must be at least one or two blue cones.,1,1
+92,178,RLWUHB7DXT,I0-0Id8uYOu7Ns8JAAAI,Kappa,at least one is blue AND small,1.0,1.0,There must be at least one small blue object.,There must be at least one small blue object.,1,1
+93,179,RLWUHB7DXT,I0-0Id8uYOu7Ns8JAAAI,Omega,all are blue OR small,0.625,0.625,There must be a least one small object present of any color.,There must be a least one small object present of any color.,1,1
+94,180,AwdRcTd822,d1YjSFSBFrki-S5PAAAO,Iota,one is blue,0.5,0.5,There has to be at least one blue triangle,There has to be at least one blue triangle,1,1
+95,181,AwdRcTd822,d1YjSFSBFrki-S5PAAAO,Upsilon,none are upright,0.75,0.75,Two red triangles on its side,There should be at least two red triangles not upright,1,1
+96,184,AwdRcTd822,d1YjSFSBFrki-S5PAAAO,Zeta,there is a red,1.0,1.0,There has to be at least one red triangle,There has to be at least one red triangle,1,1
+97,185,AwdRcTd822,YrnNZfisZ2wBBI29AAAN,Iota,one is blue,0.75,0.75,"There must be at least one blue, red and green of any size and in any position. ","There must be at least one of each color blue, red and green. They can be any size and in any postion. ",1,1
+98,186,AwdRcTd822,YrnNZfisZ2wBBI29AAAN,Upsilon,none are upright,0.375,0.625,I can't think of a rule that is true for this one. Maybe that two of the same color big objects are touching and there is a smaller different colored object off to the side. ,I really don't know of any rule on this one. ,1,1
+99,189,AwdRcTd822,YrnNZfisZ2wBBI29AAAN,Zeta,there is a red,1.0,1.0,there must be at least one red piece with any other combination of colors and sizes,there must be a red piece present with any other combination of colors and sizes. ,1,1
+100,191,tyKsvKn65x,r5Nceq8NRwxS-O_FAAAS,Iota,one is blue,0.625,0.625,No cones of the same color,Must not include repeated colors,1,1
+101,194,tyKsvKn65x,r5Nceq8NRwxS-O_FAAAS,Omega,all are blue OR small,0.625,0.75,Needs a blue medium cone,Blue medium cone is needed,1,1
+102,196,tyKsvKn65x,xXhmUTuLwB2U-k9cAAAT,Iota,one is blue,0.375,0.375,A cone of equal size or one size larger or smaller of the base cone must be leaning on th base cone,There must be a cone of equal size or one size larger or smaller leaning on the base cone,1,1
+103,199,tyKsvKn65x,xXhmUTuLwB2U-k9cAAAT,Omega,all are blue OR small,0.75,0.75,No cones can be touching,No cones can be touching,1,1

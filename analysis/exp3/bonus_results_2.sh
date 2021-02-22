@@ -1,0 +1,5 @@
+"#! /bin/bash"
+aws mturk send-bonus --worker-id A4IH4CO046EV3 --bonus-amount 4.2 --assignment-id 3JJVG1YBEDO3B0MTICUCLH46ZDLB5I --reason  '$3.50 completion pay + $0.7 bonus for your performance during the Challenging Science Game hit'
+aws mturk send-bonus --worker-id A6MWJK1YEY5L2 --bonus-amount 4.25 --assignment-id 3FTOP5WARHFAYCY49Y1H2ARSQAJJ0Q --reason  '$3.50 completion pay + $0.75 bonus for your performance during the Challenging Science Game hit'
+aws mturk send-bonus --worker-id AUFUUD4WG9CVO --bonus-amount 4.52 --assignment-id 3TESA3PJ331X2YBW1017GZQMX7PMMI --reason  '$3.50 completion pay + $1.02 bonus for your performance during the Challenging Science Game hit'
+aws mturk send-bonus --worker-id A2N2GFB33ZMYGF --bonus-amount 4.33 --assignment-id 3GDTJDAPVW2IH99S7ZROBHPRD2Q8M6 --reason  '$3.50 completion pay + $0.83 bonus for your performance during the Challenging Science Game hit'
